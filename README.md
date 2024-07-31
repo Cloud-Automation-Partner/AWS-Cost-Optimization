@@ -12,7 +12,7 @@ aws-cost-optimization/
 │ ├── ec2-setup.md 
 │ ├── lambda-setup.md  
 │ ├── rds-setup.md  
-│ └── other-resources-setup.md  
+│ └── s3-ebs-resources.md  
 │  
 ├── cost-analysis/  
 │ ├── using-cost-explorer.md  
