@@ -1,7 +1,7 @@
 # AWS-Cost-Optimization
 
 ## Introduction
-This repository contains a Proof of Concept (POC) for optimizing costs on AWS. It covers the setup of AWS resources, cost analysis, implementation of cost optimization strategies, automation of routine tasks, and continuous improvement practices. The aim is to help you reduce AWS expenses while maintaining performance and reliability.
+This repository contains a Project for optimizing costs on AWS. It covers the setup of AWS resources, cost analysis, implementation of cost optimization strategies, automation of routine tasks, and continuous improvement practices. The aim is to help you reduce AWS expenses while maintaining performance and reliability.
 
 ## Repository Structure  
 ```
