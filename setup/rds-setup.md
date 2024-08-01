@@ -51,4 +51,4 @@ This guide provides steps to set up an RDS instance as part of the initial envir
    - Insert and retrieve data to ensure the database is functioning correctly.
 
 ## Conclusion
-Your RDS instance is now set up and running. Proceed to the [Other Resources Setup Guide](other-resources-setup.md) to continue with this project setup.
+Your RDS instance is now set up and running. Proceed to the [s3-ebs-resources.md](s3-ebs-resources.md) to continue with this project setup.
