@@ -1,4 +1,4 @@
-# Other Resources Setup Guide
+# S3 EBS Resources Setup Guide 
 
 ## Overview
 This guide provides steps to set up additional AWS resources such as S3 and EBS as part of the initial environment for the cost optimization POC.
